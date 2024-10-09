@@ -1,0 +1,14 @@
+T__0=1
+T__1=2
+NOT=3
+AND=4
+OR=5
+ALWAYS=6
+NEXT=7
+SOMETIME=8
+UNTIL=9
+WS=10
+IDENTIFIER=11
+'('=1
+')'=2
+'next'=7
